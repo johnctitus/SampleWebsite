@@ -9,11 +9,11 @@
 	<div id="header">
 		<div>
 			<div id="logo">
-				<a href="index.html"><img src="images/logo.png" alt="LOGO"></a>
+				<a href="default.aspx"><img src="images/logo.png" alt="LOGO"></a>
 			</div>
 			<ul id="navigation">
 				<li class="selected">
-					<a href="index.html">Home</a>
+					<a href="default.aspx">Home</a>
 				</li>
 				<li>
 					<a href="about.html">About</a>
@@ -34,7 +34,7 @@
 		<div>
 			<div class="body">
 				<div id="adbox">
-					<img src="images/chair.jpg" alt="Img"> <span class="info"> Whicker Chair <em>$250.00</em> <a href="index.html" class="btn1">View Details</a> </span>
+					<img src="images/chair.jpg" alt="Img"> <span class="info"> Whicker Chair <em>$250.00</em> <a href="default.aspx" class="btn1">View Details</a> </span>
 					<div class="details">
 						<h1>High Quality<br>Windows DevOps with Microsoft DSC.</h1>
 						<p>
@@ -46,7 +46,7 @@ you need, we can make it according to your needs. </p>
 				<ul id="featured">
 					<li>
 						<div>
-							<img src="images/living-room.jpg" alt="Img"> <a href="index.html"></a>
+							<img src="images/living-room.jpg" alt="Img"> <a href="default.aspx"></a>
 						</div>
 						<div class="details">
 							<h4>Living Room</h4>
@@ -57,7 +57,7 @@ you need, we can make it according to your needs. </p>
 					</li>
 					<li class="bedroom">
 						<div>
-							<img src="images/bedroom.jpg" alt="Img"> <a href="index.html"></a>
+							<img src="images/bedroom.jpg" alt="Img"> <a href="default.aspx"></a>
 						</div>
 						<div class="details">
 							<h4>Bedroom</h4>
@@ -68,7 +68,7 @@ you're free to use this website template without linking back to us. </p>
 					</li>
 					<li class="kitchen">
 						<div>
-							<img src="images/kitchen.jpg" alt="Img"> <a href="index.html"></a>
+							<img src="images/kitchen.jpg" alt="Img"> <a href="default.aspx"></a>
 						</div>
 						<div class="details">
 							<h4>Kitchen</h4>
@@ -110,7 +110,7 @@ you're free to use this website template without linking back to us. </p>
 					<h4>Visit our Showroom</h4>
 					<a href="gallery.html"><img src="images/show-room.png" alt="Img"></a>
 					<p>
-						4885 Wilson Street<br> Victorville, CA 92392<br><br> 760-962-9541<br><br> <a href="index.html">info@carvedcreations.com</a>
+						4885 Wilson Street<br> Victorville, CA 92392<br><br> 760-962-9541<br><br> <a href="default.aspx">info@carvedcreations.com</a>
 					</p>
 				</div>
 				<div>
@@ -150,7 +150,7 @@ you're free to use this website template without linking back to us. </p>
 			</div>
 			<ul class="navigation">
 				<li>
-					<a href="index.html">Home</a>
+					<a href="default.aspx">Home</a>
 				</li>
 				<li>
 					<a href="about.html">About</a>
